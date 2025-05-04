@@ -98,8 +98,42 @@ Each email is parsed and passed through GPT-4o, where it’s classified based on
 ### 🔄 Workflow Overview  
 ![Workflow Screenshot](agent-workflow.png)
 
-### ✉️ Example Gmail Labels  
-![Gmail Labels](labeled_inbox.png)
+### 📂 Suggested Gmail Labels to Add
+
+Organize your inbox more efficiently by applying these labels to emails processed by the **Email Noise Filter Agent**:
+
+| **Label Name**                 | **Purpose**                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| `Noise`                       | Main label for all emails flagged as “useless” by the agent                  |
+| `Noise/Sales`                 | Sales pitches, cold outreach, demo requests, upsells                         |
+| `Noise/Marketing`             | Newsletters, product announcements, brand awareness campaigns                |
+| `Noise/Promotions`            | Discount offers, coupons, affiliate links, limited-time deals                |
+| `Noise/Ads`                   | Sponsored content, advertisements, third-party promotions                    |
+| `Noise/Meeting Confirmations` | Meeting acceptance or acknowledgment messages (e.g., “See you at 3pm”)       |
+| `Noise/Human Review`          | Emails flagged as borderline or unclear — for manual double-checking         |
+| `Noise/Auto-Cleaned`          | Optional label for auto-archived or filtered messages                        |
+
+---
+
+### 🏷️ Gmail Label Tips
+
+- Use **nested labels** for clarity and hierarchy:
+  ```
+  Noise/
+    ├── Sales
+    ├── Marketing
+    ├── Promotions
+    ├── Ads
+    ├── Meeting Confirmations
+    ├── Human Review
+    └── Auto-Cleaned
+  ```
+
+- **Color-code** labels in Gmail for better visual distinction.
+- You can apply Gmail filters to:
+  - Automatically assign labels to incoming messages
+  - Archive emails that match certain label conditions (e.g., skip inbox for `Noise/Ads`)
+
 
 ---
 
