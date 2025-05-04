@@ -70,7 +70,7 @@ Each email is parsed and passed through GPT-4o, where it’s classified based on
 
 ### 2. Import Workflow
 
-1. Download the `My_workflow_2.json` file from this repo  
+1. Download the `agent-workflow.json` file from this repo  
 2. Log into your n8n dashboard  
 3. Click the **Import** icon on the top bar  
 4. Upload the JSON to load the pre-built workflow
