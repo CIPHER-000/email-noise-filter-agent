@@ -130,7 +130,9 @@ Organize your inbox more efficiently by applying these labels to emails processe
   ```
 
 - **Color-code** labels in Gmail for better visual distinction.
+
 ![Workflow Screenshot](Example_Labels.png)
+
 - You can apply Gmail filters to:
   - Automatically assign labels to incoming messages
   - Archive emails that match certain label conditions (e.g., skip inbox for `Noise/Ads`)
