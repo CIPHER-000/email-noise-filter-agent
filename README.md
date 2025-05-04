@@ -96,7 +96,7 @@ Each email is parsed and passed through GPT-4o, where it’s classified based on
 ## 📸 Screenshots
 
 ### 🔄 Workflow Overview  
-![Workflow Screenshot](workflow_email_noise.png)
+![Workflow Screenshot](agent-workflow.png)
 
 ### ✉️ Example Gmail Labels  
 ![Gmail Labels](labeled_inbox.png)
