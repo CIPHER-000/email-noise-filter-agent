@@ -147,7 +147,7 @@ Your inbox is full of distractions — automated reminders, cold sales pitches, 
 ## 📬 Questions or Contributions?
 
 Fork this repo, open an issue, or suggest improvements.  
-Contact: **henry@arcnetlab.com**
+Contact: **henrywilder000@gmail.com**
 
 ---
 
